@@ -1,0 +1,11 @@
+C:\Users\Wendell\Documents\mib\sportsx\sportsx.cliente.domain\sportsx.cliente.domain\bin\Debug\netcoreapp3.1\sportsx.cliente.domain.deps.json
+C:\Users\Wendell\Documents\mib\sportsx\sportsx.cliente.domain\sportsx.cliente.domain\bin\Debug\netcoreapp3.1\sportsx.cliente.domain.dll
+C:\Users\Wendell\Documents\mib\sportsx\sportsx.cliente.domain\sportsx.cliente.domain\bin\Debug\netcoreapp3.1\sportsx.cliente.domain.pdb
+C:\Users\Wendell\Documents\mib\sportsx\sportsx.cliente.domain\sportsx.cliente.domain\bin\Debug\netcoreapp3.1\sportsx.core.dll
+C:\Users\Wendell\Documents\mib\sportsx\sportsx.cliente.domain\sportsx.cliente.domain\bin\Debug\netcoreapp3.1\sportsx.core.pdb
+C:\Users\Wendell\Documents\mib\sportsx\sportsx.cliente.domain\sportsx.cliente.domain\obj\Debug\netcoreapp3.1\sportsx.cliente.domain.csprojAssemblyReference.cache
+C:\Users\Wendell\Documents\mib\sportsx\sportsx.cliente.domain\sportsx.cliente.domain\obj\Debug\netcoreapp3.1\sportsx.cliente.domain.AssemblyInfoInputs.cache
+C:\Users\Wendell\Documents\mib\sportsx\sportsx.cliente.domain\sportsx.cliente.domain\obj\Debug\netcoreapp3.1\sportsx.cliente.domain.AssemblyInfo.cs
+C:\Users\Wendell\Documents\mib\sportsx\sportsx.cliente.domain\sportsx.cliente.domain\obj\Debug\netcoreapp3.1\sportsx.cliente.domain.csproj.CopyComplete
+C:\Users\Wendell\Documents\mib\sportsx\sportsx.cliente.domain\sportsx.cliente.domain\obj\Debug\netcoreapp3.1\sportsx.cliente.domain.dll
+C:\Users\Wendell\Documents\mib\sportsx\sportsx.cliente.domain\sportsx.cliente.domain\obj\Debug\netcoreapp3.1\sportsx.cliente.domain.pdb

@@ -1,0 +1,8 @@
+C:\Users\Wendell\Documents\mib\sportsx\sportsx.core\sportsx.core\bin\Debug\netcoreapp3.1\sportsx.core.deps.json
+C:\Users\Wendell\Documents\mib\sportsx\sportsx.core\sportsx.core\bin\Debug\netcoreapp3.1\sportsx.core.dll
+C:\Users\Wendell\Documents\mib\sportsx\sportsx.core\sportsx.core\bin\Debug\netcoreapp3.1\sportsx.core.pdb
+C:\Users\Wendell\Documents\mib\sportsx\sportsx.core\sportsx.core\obj\Debug\netcoreapp3.1\sportsx.core.AssemblyInfoInputs.cache
+C:\Users\Wendell\Documents\mib\sportsx\sportsx.core\sportsx.core\obj\Debug\netcoreapp3.1\sportsx.core.AssemblyInfo.cs
+C:\Users\Wendell\Documents\mib\sportsx\sportsx.core\sportsx.core\obj\Debug\netcoreapp3.1\sportsx.core.dll
+C:\Users\Wendell\Documents\mib\sportsx\sportsx.core\sportsx.core\obj\Debug\netcoreapp3.1\sportsx.core.pdb
+C:\Users\Wendell\Documents\mib\sportsx\sportsx.core\sportsx.core\obj\Debug\netcoreapp3.1\sportsx.core.csprojAssemblyReference.cache

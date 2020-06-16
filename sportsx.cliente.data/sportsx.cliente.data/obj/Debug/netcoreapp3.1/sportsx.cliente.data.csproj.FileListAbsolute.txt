@@ -1,0 +1,15 @@
+C:\Users\Wendell\Documents\mib\sportsx\sportsx.cliente.data\sportsx.cliente.data\bin\Debug\netcoreapp3.1\sportsx.cliente.data.deps.json
+C:\Users\Wendell\Documents\mib\sportsx\sportsx.cliente.data\sportsx.cliente.data\bin\Debug\netcoreapp3.1\sportsx.cliente.data.dll
+C:\Users\Wendell\Documents\mib\sportsx\sportsx.cliente.data\sportsx.cliente.data\obj\Debug\netcoreapp3.1\sportsx.cliente.data.csprojAssemblyReference.cache
+C:\Users\Wendell\Documents\mib\sportsx\sportsx.cliente.data\sportsx.cliente.data\obj\Debug\netcoreapp3.1\sportsx.cliente.data.AssemblyInfoInputs.cache
+C:\Users\Wendell\Documents\mib\sportsx\sportsx.cliente.data\sportsx.cliente.data\obj\Debug\netcoreapp3.1\sportsx.cliente.data.AssemblyInfo.cs
+C:\Users\Wendell\Documents\mib\sportsx\sportsx.cliente.data\sportsx.cliente.data\bin\Debug\netcoreapp3.1\sportsx.cliente.data.runtimeconfig.json
+C:\Users\Wendell\Documents\mib\sportsx\sportsx.cliente.data\sportsx.cliente.data\bin\Debug\netcoreapp3.1\sportsx.cliente.data.runtimeconfig.dev.json
+C:\Users\Wendell\Documents\mib\sportsx\sportsx.cliente.data\sportsx.cliente.data\bin\Debug\netcoreapp3.1\sportsx.cliente.data.pdb
+C:\Users\Wendell\Documents\mib\sportsx\sportsx.cliente.data\sportsx.cliente.data\bin\Debug\netcoreapp3.1\sportsx.cliente.domain.dll
+C:\Users\Wendell\Documents\mib\sportsx\sportsx.cliente.data\sportsx.cliente.data\bin\Debug\netcoreapp3.1\sportsx.core.dll
+C:\Users\Wendell\Documents\mib\sportsx\sportsx.cliente.data\sportsx.cliente.data\bin\Debug\netcoreapp3.1\sportsx.cliente.domain.pdb
+C:\Users\Wendell\Documents\mib\sportsx\sportsx.cliente.data\sportsx.cliente.data\bin\Debug\netcoreapp3.1\sportsx.core.pdb
+C:\Users\Wendell\Documents\mib\sportsx\sportsx.cliente.data\sportsx.cliente.data\obj\Debug\netcoreapp3.1\sportsx.cliente.data.csproj.CopyComplete
+C:\Users\Wendell\Documents\mib\sportsx\sportsx.cliente.data\sportsx.cliente.data\obj\Debug\netcoreapp3.1\sportsx.cliente.data.dll
+C:\Users\Wendell\Documents\mib\sportsx\sportsx.cliente.data\sportsx.cliente.data\obj\Debug\netcoreapp3.1\sportsx.cliente.data.pdb
